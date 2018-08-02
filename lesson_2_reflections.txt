@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+	An *Uncommitted* git repo is created. Users have to perfore the first commit as Git doesen't do thhe initial automatically.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	The staging area contains files that may soon be comitted in git while the working directory contains all files in the repositiory.
